@@ -22,6 +22,10 @@
     </div>
     <div id="about">
         <p>    About Us
+            
+            Revert sanjiv changes
+            
+            
             OPEN SOURCE SOFTWARE SHOPPING MADE EASY.
             Now shopping for Open Source Software is easier and affordable. All your software needs met with Open Source Revolution which are designed with feature rich, easy to use, stable and user friendly and with a visually appealing interface.
             The website is developed on an unique idea of providing end to end solutions for all Open Source.
